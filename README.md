@@ -3,7 +3,7 @@
 
 
  ***<table>***
-<div align="left">
+<div align="center">
   <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" height="80" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
