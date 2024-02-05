@@ -3,7 +3,7 @@
 
 
  ***<table>***
-<div align="center">
+<div align="center" style="display: flex; align-items: center; border: 2px solid #eaecef; border-radius: 10px; overflow: hidden;">
   <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" height="80" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="80" alt="nodejs logo"  />
