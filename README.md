@@ -7,7 +7,7 @@
 <tr>
      <td align="center" width="90">
         <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="79" height="60" />
-      C
+      <br>C
     <td align="center" width="98">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="55" />
