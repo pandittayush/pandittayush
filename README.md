@@ -7,32 +7,32 @@
 <tr>
      <td align="center" width="90">
         <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" alt="icon" width="79" height="60" />
-      <br>C
+      C
     <td align="center" width="98">
       <a href="#macropower-tech">
         <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="89" height="55" />
       </a>
-      <br>Python
+      Python
     </td>
    <td align="center"  width="98">
         <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
-      <br>HTML
+      HTML
     </td>
    <td align="center" width="98">
         <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
-      <br>CSS
+      CSS
     </td>
    <td align="center"  width="98">
         <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
-      <br>Bootstrap
+      Bootstrap
     </td>
    <td align="center" width="98">
         <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="89" height="55" />
-      <br>Javascript
+      Javascript
     </td>
   <td align="center" width="90">
        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="89" height="60" />       
-     <br>SQL  
+     SQL  
       </td>
 
 
