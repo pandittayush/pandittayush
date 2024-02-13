@@ -52,3 +52,7 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+    #Snake final cut
+
+    ![snake gif](https://github.com/pandittayush/pandittayush/blob/output/github-contribution-grid-snake.gif)
