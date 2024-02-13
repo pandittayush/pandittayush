@@ -65,6 +65,5 @@
 
 
 
-![snake gif](https://github.com/pandittayush/pandittayush/blob/output/github-contribution-grid-snake.gif)
 
 
