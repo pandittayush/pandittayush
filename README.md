@@ -25,7 +25,6 @@
 </div>
 
 
-
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT & nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/pandittayush](https://github.com/pandittayush)
