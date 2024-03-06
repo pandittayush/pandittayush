@@ -2,6 +2,7 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 
+
  ***<table>***
 <div align="center" style="display: flex; align-items: center; border: 2px solid #eaecef; border-radius: 10px; overflow: hidden;">
   <img src="https://media1.giphy.com/avatars/GenCGroup/DDI6XPb1buW5.gif" height="80" alt="javascript logo"  />
